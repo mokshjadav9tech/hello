@@ -1,0 +1,27 @@
+<div class="container">
+  <h1>My Projects</h1>
+
+  <div class="card">
+    <h3>Waste Management Project ♻️</h3>
+    <p>
+      This project was created for the Celebration of Learning.
+      We learned about waste management, segregation of waste,
+      and how to reduce, reuse, and recycle to protect the environment.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>My First Website 💻</h3>
+    <p>
+      A multi-page website built using HTML and CSS.
+      This is my personal portfolio website.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>Future Projects 🚀</h3>
+    <p>
+      I will add more projects as I continue learning computers and design.
+    </p>
+  </div>
+</div>
